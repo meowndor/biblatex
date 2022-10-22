@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is '03-localization-keys.blg'
+[114] biber-MSWIN32:340> INFO - === 
+[157] Biber.pm:415> INFO - Reading '03-localization-keys.bcf'
+[274] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[289] Biber.pm:4340> INFO - Processing section 0
+[302] Biber.pm:4531> INFO - Looking for bibtex format file 'biblatex-examples.bib' for section 0
+[794] bibtex.pm:1689> INFO - LaTeX decoding ...
+[992] bibtex.pm:1494> INFO - Found BibTeX data source 'c:/texlive/2021/texmf-dist/bibtex/bib/biblatex/biblatex/biblatex-examples.bib'
+[1496] UCollate.pm:68> INFO - Overriding locale 'indonesian' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1498] UCollate.pm:68> INFO - Overriding locale 'indonesian' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1499] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'indonesian'
+[1499] Biber.pm:4174> INFO - No sort tailoring available for locale 'indonesian'
+[1598] bbl.pm:654> INFO - Writing '03-localization-keys.bbl' with encoding 'UTF-8'
+[1672] bbl.pm:757> INFO - Output to 03-localization-keys.bbl
